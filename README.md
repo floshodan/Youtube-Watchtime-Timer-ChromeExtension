@@ -5,3 +5,4 @@ Records and displays the actual watchtime of all videos watched during a websess
 
 Add Database
 fix Header
+make header pesitent
