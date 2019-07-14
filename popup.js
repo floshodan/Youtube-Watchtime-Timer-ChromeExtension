@@ -13,7 +13,7 @@ function myMain (evt) {
   var logo = document.getElementById('logo');
   console.log(logo);
   logo.after(timer);
-}
+};
 
 // check if user changes URL
 chrome.runtime.onMessage.addListener(

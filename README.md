@@ -1,8 +1,11 @@
 # Youtube-Watchtime-Timer-ChromeExtension
-Records and displays the actual watchtime of all videos watched during a websession. 
+A simple chrome extention that displays the actual watchtime of a Websession on the top of the page.
+Uses the html5 video api to check if a video is playing. 
 
-#TODO
+Currently only working with youtubs html5 player. (modern browsers support it anyway)
 
-Add Database
-fix Header
-make header pesitent
+## TODO
+
+- [ ] Add Database 
+- [ ] Fix header 
+- [ ] Make header persitent 
